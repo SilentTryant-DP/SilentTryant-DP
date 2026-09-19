@@ -251,6 +251,5 @@
 - **Advanced Data Analytics** – Predictive modeling with ML
 
 
-# 📊 GitHub Stats
 
 
