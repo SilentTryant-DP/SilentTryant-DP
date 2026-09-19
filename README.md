@@ -1,4 +1,5 @@
 # 👋 Hi there, Vansh this side!
+<h3 align="center">A fervid developer and Competitive Programmer 👻</h3>
 
 💻 Passionate developer exploring full-stack, mobile, AI, and system design.  
 🚀 Always learning, building, and sharing knowledge with the community.  
@@ -6,6 +7,110 @@
 🚀 Always learning, building, and sharing knowledge with the community  
 
 ---
+
+<p>
+    <img alt="gif" align="right" width="320" height="280" src="https://media.tenor.com/nwTD5-bwkRcAAAAC/shinji-ikari-thank-you.gif" />
+</p>
+
+- 🐾 I’m currently learning **Artificail Intelligence with deep learning**
+- 🤝 I’m looking to collaborate on **Web development projects**
+- 💬 Ask me about **Coding, Listening songs, and travelling**
+- 📧 How to reach me **vanshchadha4567@gmail.com**
+- ⚡ Fun fact: **Well I do belong to desi punjabi culture**
+
+<br>
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=SilentTryant-DP&label=Profile%20views&color=0e75b6&style=flat" alt="SilentTryant-DP" />
+</p>
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://www.linkedin.com/in/vansh-chadha-551262385/" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+    </a>
+    <a href="https://www.instagram.com/vansh_011_16/" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
+    </a>
+    <a href="https://x.com/Vanshy01116" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x.svg" alt="X" height="40" width="50" alt="X"/>
+</a>
+<a href="https://discord.com/channels/@me/1496608958696259746" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50" />
+</a>
+<a href="https://topmate.io/vansh_chadha11" target="_blank">
+    <img src="https://img.shields.io/badge/Topmate-000000?style=for-the-badge&logoColor=white" alt="Topmate" height="40" />
+</a>
+<br>
+
+<h3 align="center"> 🏆 Competitive Programming Journey</h3>
+
+<!-- ## 📊 LeetCode and CodeForces
+<img src="https://leetcard.jacoblin.cool/Death_lord?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />                         
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vansh1947&theme=dracula" alt="Codeforces Stats" />
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/leading_sky_78)
+[![AtCoder](https://img.shields.io/badge/AtCoder-00BFFF?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Death_lord)
+-->
+</p>
+
+<br>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="52" height="52" />
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="52" height="52" />
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="52" height="52" />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="52" height="52" />
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="52" height="52" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="52" height="52" />
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="52" height="52" />
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="52" height="52" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="52" height="52" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="52" height="52" />
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="52" height="40" />
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="52" height="52" />
+    </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="52" height="52" />
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="52" height="52" />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="52" height="52" />
+    </a>
+</p>
+
+<br>
+
+---
+
 
 ### ✨ My Timepass
 Σ skills = {Python + C++ + Java + React + Node.js + ML + AWS + Docker}
@@ -74,17 +179,24 @@
 ---
 
 ---
-# 🏆 Competitive Programming Journey
 
 
-<!-- ## 📊 LeetCode and CodeForces
-<img src="https://leetcard.jacoblin.cool/Death_lord?theme=dark&font=Source%20Code%20Pro&ext=contest" alt="LeetCode Stats" />                         
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Vansh1947&theme=dracula" alt="Codeforces Stats" />
+<h3 align="center">Github Stats:</h3>
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/leading_sky_78)
-[![AtCoder](https://img.shields.io/badge/AtCoder-00BFFF?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Death_lord)
--->
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=huzaifa9999&theme=darkhub" alt="huzaifa9999 trophies" />
+    </a>
+</p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=huzaifa9999&show_icons=true&locale=en&theme=nightowl" alt="huzaifa9999 stats" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifa9999&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="huzaifa9999 top languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa9999&theme=nightowl" alt="huzaifa9999 streak" />
+</p>
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -102,7 +214,6 @@
 - **Advanced Data Analytics** – Predictive modeling with ML.  
 - **MERN + Flutter Apps**
  – Full-stack + mobile integration.  
-![CP Heatmap](https://raw.githubusercontent.com/your-username/your-repo/main/heatmap.png)
 
 ---
 
