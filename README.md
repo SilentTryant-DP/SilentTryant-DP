@@ -214,6 +214,8 @@
 
 <h3 align="center"># 📊 GitHub Stats</h3>
 
+
+
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=SilentTryant-DP&theme=darkhub" alt="SilentTryant-DP trophies" />
@@ -229,7 +231,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilentTryant-DP&theme=nightowl" alt="SilentTryant-DP streak" />
 </p>
 
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SilentTryant-DP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -247,3 +249,8 @@
 - **SQL Data Warehouse (Bronze → Gold)** – Scalable pipelines with advanced queries.  
 - **Exploratory Data Analysis (EDA)** – Python analytics + visualization.  
 - **Advanced Data Analytics** – Predictive modeling with ML
+
+
+# 📊 GitHub Stats
+
+
