@@ -216,6 +216,13 @@
 
 
 
+
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilentTryant-DP&theme=nightowl" alt="SilentTryant-DP streak" />
+</p>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SilentTryant-DP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=SilentTryant-DP&theme=darkhub" alt="SilentTryant-DP trophies" />
@@ -225,13 +232,6 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SilentTryant-DP&show_icons=true&locale=en&theme=nightowl" alt="SilentTryant-DP stats" />
 </p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SilentTryant-DP&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="SilentTryant-DP top languages" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilentTryant-DP&theme=nightowl" alt="SilentTryant-DP streak" />
-</p>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SilentTryant-DP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
